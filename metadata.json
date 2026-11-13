@@ -1,0 +1,6 @@
+{
+  "name": "EcoVolt - Smart Home Energy Analytics Dashboard",
+  "description": "Comprehensive responsive energy analytics dashboard to monitor electricity consumption, appliance usage, estimate bills, and reduce carbon footprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
